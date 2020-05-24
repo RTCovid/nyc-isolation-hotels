@@ -2,6 +2,7 @@
 *credentials.json 
 *token.pickle
 *gsheet_config.py
+*isolation_hotel_scratch.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
